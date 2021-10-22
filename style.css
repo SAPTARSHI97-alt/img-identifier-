@@ -1,0 +1,64 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#login_button_watch{
+    position: absolute; 
+   
+    top: 80px;
+    right: 600px;
+    width: 70px; 
+    border: 0px solid #d6d6d6;  
+    
+}
+
+#login_button_mouse{
+    position: absolute; 
+   
+    top: 130px;
+    right: 600px;
+    width: 70px; 
+    border: 0px solid #d6d6d6;  
+    
+}
+
+
+#login_button_pepsi{
+    position: absolute; 
+   
+    top: 180px;
+    right: 600px;
+    width: 70px; 
+    border: 0px solid #d6d6d6;  
+    
+}
+
+
+#login_button_bed{
+    position: absolute; 
+   
+    top: 230px;
+    right: 600px;
+    width: 100px; 
+    border: 0px solid #d6d6d6;  
+    
+}
